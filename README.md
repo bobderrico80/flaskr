@@ -1,1 +1,2 @@
-# My Own Version of the Flaskr microblog platform.
+# Flaskr
+My Own Version of the Flaskr microblog platform.
